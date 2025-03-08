@@ -1,11 +1,11 @@
 # Exercicios Javascript + Testes automatizados com Jest
 
-Este repositório contém três exercícios distintos, cada um organizado em uma pasta separada. Cada exercício possui uma aplicação prática com testes automatizados utilizando o Jest.
+Este repositório contém três exercícios distintos da matéria tópicos avançados em sistemas da informação, cada um organizado em uma pasta separada. Cada exercício possui uma aplicação prática com testes automatizados utilizando o Jest.
 
 ## Estrutura do Repositório
-- `exercicio2/` - Gerenciador de biblioteca
+- `exercicio2/` - Gerenciador de notas de alunos
 - `exercicio3/` - Gerenciador de conta bancária
-- `exercicio4/` - Gerenciador de notas
+- `exercicio4/` - Gerenciador de biblioteca
 
 ---
 
