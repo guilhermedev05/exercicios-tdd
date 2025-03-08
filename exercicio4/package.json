@@ -1,0 +1,19 @@
+{
+  "name": "biblioteca",
+  "version": "1.0.0",
+  "description": "Gerenciador de biblioteca",
+  "keywords": [
+    "jest",
+    "biblioteca"
+  ],
+  "license": "ISC",
+  "author": "Guilherme",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
